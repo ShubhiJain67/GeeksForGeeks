@@ -35,9 +35,13 @@ GeeksForGeeks : Lowest Common Ancestor in a Binary Tree (15_Medium)
 
 GeeksForGeeks : Maximum path sum (3_Easy)
 
+GeeksForGeeks : Maximum Path Sum between 2 Leaf Nodes (3_Hard)
+
 GeeksForGeeks : Maximum Sum Bitonic Subsequence (6_Easy)
 
 GeeksForGeeks : Maximum Sum Increasing Subsequence (14_Medium)
+
+GeeksForGeeks : Merge Without Extra Space (2_Hard)
 
 GeeksForGeeks : Mirror Tree (5_Easy)
 
