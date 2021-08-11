@@ -34,6 +34,8 @@ GeeksForGeeks : Height Of Binary Tree (16_Medium)
 
 GeeksForGeeks : Inorder Traversal (2_Basic)
 
+GeeksForGeeks : Job Sequencing Problem (18_Medium)
+
 GeeksForGeeks : Longest Bitonic subsequence  (7_Medium)
 
 GeeksForGeeks : Lowest Common Ancestor in a Binary Tree (15_Medium)
